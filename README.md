@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajat-blr
-- 👀 I’m interested in Cross-Platform App Development(Flutter and React-Native),Machine Learning, Deep Learning and Competitive Programming
-- 🌱 I’m currently learning React-Native App Development
+- 👀 I’m interested in Machine Learning, AI, Fullstack Development, OpenSource Contribution and High Level System Design
+- 🌱 I’m currently learning FullStack Development and System Design
 - 📫 How to reach me Email: vrajatlink@gmail.com
 
 <!---
